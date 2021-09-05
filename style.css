@@ -14,12 +14,17 @@ canvas {
 }
 
 .gameTitle{
-  width: 65%;
-  height: 100px;
+  width: 75%;
+  height: 80px;
+}
+
+.gameTitleAfterEffect{
+  width: 25%;
+  height: 80px;
 }
 
 .greeting{
-  font-size: 20px;
+  font-size: 40px;
   color: white;
   font-family: vollkorn;
   text-align: center;
