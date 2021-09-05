@@ -40,7 +40,7 @@ class Form {
 
   display(){
     this.setElementsPosition()
-    this.setElementsPosition()
+    this.setElementsStyle()
     this.handleMousePressed()
   }
 
